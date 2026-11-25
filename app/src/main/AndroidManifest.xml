@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application android:label="Liquid Glass Icons" android:icon="@android:drawable/sym_def_app_icon">
         <meta-data android:name="xposedmodule" android:value="true" />
-        <meta-data android:name="xposeddescription" android:value="Liquid glass иконки для лаунчера" />
+        <meta-data android:name="xposeddescription" android:value="Liquid glass: иконки, док, папки, виджеты, размытие" />
         <meta-data android:name="xposedminversion" android:value="93" />
         <meta-data android:name="xposedscope" android:resource="@array/xposed_scope" />
     </application>
